@@ -2,7 +2,7 @@
 # Steam Account Switcher
 
 The quickest way to switch between your steam accounts  
-![Screenshot](https://imgur.com/a/Ju7d27f)
+![Screenshot](https://i.imgur.com/GBMmF5s.png)
 
 ## Setup
 
